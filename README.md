@@ -17,7 +17,7 @@
 - 👋 Hi, I’m **Juanith Thomas**, a tech enthusiast with a Bachelor's in Computer Science Engineering. 
 - 🚀 Currently a System test engineering student at FH JOANNEUM, former intern at **NXP Semiconductors, Austria** on QA, testing and automation.
 - 🧪 I love technology, suuuper wide domain I know, but trust me, I love it all!
-- ✍️ Published research on deepfake detection & educational chatbots ([IEEE papers](https://doi.org/10.1109/ICICT60155.2024.10544898), [link 2](https://doi.org/10.1109/CONIT61985.2024.10627567))!
+- ✍️ Published research on deepfake detection & educational chatbots ([Deepfake image classifier](https://doi.org/10.1109/ICICT60155.2024.10544898), [Educational chatbot](https://doi.org/10.1109/CONIT61985.2024.10627567))!
 
 ---
 
