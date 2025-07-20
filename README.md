@@ -8,7 +8,7 @@
 
 <p align="center">
   <em>Computer Science Engineer • AI Enthusiast • Automation Fan • Gamer at heart 🎮</em> <br>
-  <img src="https://raw.githubusercontent.com/juanith/juanith/main/cat-pixel.png" width="120" alt="Pixel Cat" />
+  <img src="https://raw.githubusercontent.com/codebananas3/codebananas3/main/cat-space.gif" width="120" alt="Pixel Cat" />
 </p>
 
 ---
