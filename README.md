@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @codebananas3 (you can call me 'J'!)
+- 👋 Hi, I’m Juan! 😄
 - 👀 I’m genuinely interested in everything related to tech! From programming to video games!
 - 📫 Reach me on: 'hello@juanith.eu.org'!
 
