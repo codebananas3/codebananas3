@@ -1,6 +1,6 @@
 <!-- README.md -->
 
-<h1 align="center">Hey there!</h1>
+<h1 align="center">Hey there, I'm Juan! :D</h1>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/codebananas3/codebananas3/main/cat-space.gif" width="120" alt="Pixel Cat" />
@@ -26,7 +26,7 @@
 - 📬 Email: hello@juanith.eu.org  
 - 📍 Location: Graz, Austria 🇦🇹  
 - 🌐 Portfolio/Blog (coming soon!)
-<img src="https://raw.githubusercontent.com/codebananas3/codebananas3/main/cat-space.gif" width="120" alt="Pixel Cat" />
+
 ---
 
 ### ⚒️ Tech Stack
