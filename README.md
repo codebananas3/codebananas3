@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <em>Computer Science Engineer • AI Enthusiast • Automation Fan • Gamer at heart 🎮</em> <br>
+  <em>Computer Science Engineer • AI Enthusiast • Automation Fan</em> <br>
 </p>
 
 ---
