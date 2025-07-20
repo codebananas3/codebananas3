@@ -8,7 +8,6 @@
 
 <p align="center">
   <em>Computer Science Engineer • AI Enthusiast • Automation Fan • Gamer at heart 🎮</em> <br>
-  <img src="https://raw.githubusercontent.com/codebananas3/codebananas3/main/cat-space.gif" width="120" alt="Pixel Cat" />
 </p>
 
 ---
@@ -27,7 +26,7 @@
 - 📬 Email: hello@juanith.eu.org  
 - 📍 Location: Graz, Austria 🇦🇹  
 - 🌐 Portfolio/Blog (coming soon!)
-
+<img src="https://raw.githubusercontent.com/codebananas3/codebananas3/main/cat-space.gif" width="120" alt="Pixel Cat" />
 ---
 
 ### ⚒️ Tech Stack
@@ -36,15 +35,3 @@
 Languages:  Python (ML/DL) • Java (OOP) • SQL • Powershell
 Dev Tools:  Jenkins • Cisco Packet Tracer • Git • VS Code
 Interests:   AI • Automation • Cybersecurity • Games & Game Dev
-
-
-
-
-<!---
-- 👋 Hi, I’m Juan! 😄
-- 👀 I’m genuinely interested in everything related to tech! From programming to video games!
-- 📫 Reach me on: 'hello@juanith.eu.org'!
-
-codebananas3/codebananas3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
