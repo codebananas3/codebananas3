@@ -1,9 +1,9 @@
 <!-- README.md -->
 
-<h1 align="center">Hey there, I'm Juanith! 👋😄</h1>
+<h1 align="center">Hey there!</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="120" alt="Pixel Cat" />
+  <img src="https://raw.githubusercontent.com/codebananas3/codebananas3/main/cat-space.gif" width="120" alt="Pixel Cat" />
 </p>
 
 <p align="center">
